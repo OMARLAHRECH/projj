@@ -1,0 +1,317 @@
+body{
+    background-color: rgb(8, 39, 75);
+}
+img{
+    width: 200px;
+}
+
+
+.navbar{
+    display: flex;
+}
+
+
+a{
+    color: white;
+}
+
+
+.links{
+    display: flex;
+    gap: 100px;
+}
+
+
+.links a:hover{color: turquoise;}
+.quotes p{
+  
+        color: white;
+        font-size: 50px;
+        display: flex;
+        justify-content: center;
+    
+}
+.wheymauve p{
+    font-size: 20PX;
+
+}
+.wheymauve h1{
+    font-size: 20px;
+    color: rgb(21, 129, 224);
+
+}
+.wheymauve img{
+    width: 200.2px;
+    height: 200.2px;
+
+}
+.wheymauve  {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgba(224, 220, 220, 0.521);
+    width: 250px;
+    height: 350px;
+    border-radius: 25px;
+        align-items: center;
+    }
+    .whey2 p{
+        font-size: 20PX;
+    
+    }
+    .whey2 h1{
+        font-size: 20px;
+        color: rgb(21, 129, 224);
+    
+    }
+    .whey2 img{
+        width: 200.2px;
+        height: 200.2px;
+    
+    }
+    .whey2{
+        display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgba(224, 220, 220, 0.521);
+    width: 250px;
+    height: 350px;
+    border-radius: 25px;
+        align-items: center;
+
+    }
+    .whey100 p{
+        font-size: 20PX;
+    
+    }
+    .whey100 h1{
+        font-size: 20px;
+        color: rgb(21, 129, 224);
+    
+    }
+    .whey100 img{
+        width: 200.2px;
+        height: 200.2px;
+    
+    }
+    .whey100{
+        display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgba(224, 220, 220, 0.521);
+    width: 250px;
+    height: 350px;
+    border-radius: 25px;
+        align-items: center;
+
+    }
+   .wheyblack p{
+        font-size: 20PX;
+     
+    }
+    .wheyblack h1{
+        font-size: 20px;
+        color: rgb(21, 129, 224);
+    
+    }
+    .wheyblack img{
+        width: 200.2px;
+        height: 200.2px;
+    
+    }
+    .wheyblack{
+        display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgba(224, 220, 220, 0.521);
+    width: 250px;
+    height: 350px;
+    border-radius: 25px;
+        align-items: center;
+
+    }
+    .wheyj p{
+        font-size: 20PX;
+     
+    }
+    .wheyj h1{
+        font-size: 20px;
+        color: rgb(21, 129, 224);
+    
+    }
+    .wheyj img{
+        width: 200.2px;
+        height: 200.2px;
+    
+    }
+    .wheyj{
+        display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgba(224, 220, 220, 0.521);
+    width: 250px;
+    height: 350px;
+    border-radius: 25px;
+        align-items: center;
+
+    }
+    .whey{
+        display: flex;
+        justify-content: space-around;
+    }
+    
+
+.wheyone p{
+    font-size: 20PX;
+ 
+}
+.wheyone h1{
+    font-size: 20px;
+    color: rgb(21, 129, 224);
+
+}
+.wheyone img{
+    width: 200.2px;
+    height: 200.2px;
+
+}
+
+.wheyone{
+    display: flex;
+justify-content: center;
+flex-direction: column;
+background-color: rgba(224, 220, 220, 0.521);
+width: 250px;
+height: 350px;
+border-radius: 25px;
+    align-items: center;
+}
+.wheytwo p{
+    font-size: 20PX;
+ 
+}
+.wheytwo h1{
+    font-size: 20px;
+    color: rgb(21, 129, 224);
+
+}
+.wheytwo img{
+    width: 200.2px;
+    height: 200.2px;
+
+}
+
+.wheytwo{
+    display: flex;
+justify-content: center;
+flex-direction: column;
+background-color: rgba(224, 220, 220, 0.521);
+width: 250px;
+height: 350px;
+border-radius: 25px;
+    align-items: center;
+
+}
+.wheyth p{
+    font-size: 20PX;
+ 
+}
+.wheyth h1{
+    font-size: 20px;
+    color: rgb(21, 129, 224);
+
+}
+.wheyth img{
+    width: 200.2px;
+    height: 200.2px;
+
+}
+
+.wheyth{
+    display: flex;
+justify-content: center;
+flex-direction: column;
+background-color: rgba(224, 220, 220, 0.521);
+width: 250px;
+height: 350px;
+border-radius: 25px;
+    align-items: center;
+
+}
+.wheyfi p{
+    font-size: 20PX;
+ 
+}
+.wheyfi h1{
+    font-size: 20px;
+    color: rgb(21, 129, 224);
+
+}
+.wheyfi img{
+    width: 200.2px;
+    height: 200.2px;
+
+}
+.wheyfi{
+    display: flex;
+justify-content: center;
+flex-direction: column;
+background-color: rgba(224, 220, 220, 0.521);
+width: 250px;
+height: 350px;
+border-radius: 25px;
+    align-items: center;
+
+}
+
+.wheys p{
+    font-size: 20PX;
+ 
+}
+.wheys h1{
+    font-size: 20px;
+    color: rgb(21, 129, 224);
+
+}
+.wheys img{
+    width: 200.2px;
+    height: 200.2px;
+
+}
+
+.wheys{
+    display: flex;
+justify-content: center;
+flex-direction: column;
+background-color: rgba(224, 220, 220, 0.521);
+width: 250px;
+height: 350px;
+border-radius: 25px;
+    align-items: center;
+
+}
+.whey22{
+    display: flex;
+    justify-content: space-around;
+}
+.wheyet{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.FIN img{
+    width: 100%;
+    height: 500px;
+}
+.pics{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+.wheyet button{
+    background-color: rgb(21, 129, 224);
+    color: white;
+    border-radius: 15px;
+    border: 0;
+}

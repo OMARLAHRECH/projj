@@ -1,0 +1,313 @@
+body{
+    background-color: rgb(8, 39, 75);
+}
+img{
+    width: 200px;
+}
+
+
+.navbar{
+    display: flex;
+   
+}
+
+
+a{
+    color: white;
+}
+
+
+.links{
+    display: flex;
+    gap: 100px;
+}
+
+
+.links a:hover{color: turquoise;}
+.quotes p{
+  
+        color: white;
+        font-size: 50px;
+        display: flex;
+        justify-content: center;
+    
+}
+.nike1 p{
+    font-size: 20PX;
+
+}
+.nike1 h1{
+    font-size: 20px;
+    color: rgb(21, 129, 224);
+
+}
+.nike1 img{
+    width: 200.2px;
+    height: 200.2px;
+
+}
+.nike1  {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgba(224, 220, 220, 0.521);
+    width: 250px;
+    height: 350px;
+    border-radius: 25px;
+        align-items: center;
+    }
+    .nike2 p{
+        font-size: 20PX;
+    
+    }
+    .nike2 h1{
+        font-size: 20px;
+        color: rgb(21, 129, 224);
+    
+    }
+    .nike2 img{
+        width: 200.2px;
+        height: 200.2px;
+    
+    }
+    .nike2{
+        display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgba(224, 220, 220, 0.521);
+    width: 250px;
+    height: 350px;
+    border-radius: 25px;
+        align-items: center;
+
+    }
+    .nike3 p{
+        font-size: 20PX;
+    
+    }
+    .nike3 h1{
+        font-size: 20px;
+        color: rgb(21, 129, 224);
+    
+    }
+    .nike3 img{
+        width: 200.2px;
+        height: 200.2px;
+    
+    }
+    .nike3{
+        display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgba(224, 220, 220, 0.521);
+    width: 250px;
+    height: 350px;
+    border-radius: 25px;
+        align-items: center;
+
+    }
+   .nike4 p{
+        font-size: 20PX;
+     
+    }
+    .nike4 h1{
+        font-size: 20px;
+        color: rgb(21, 129, 224);
+    
+    }
+    .nike4 img{
+        width: 200.2px;
+        height: 200.2px;
+    
+    }
+    .nike4 {
+        display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgba(224, 220, 220, 0.521);
+    width: 250px;
+    height: 350px;
+    border-radius: 25px;
+        align-items: center;
+
+    }
+    .nike5 p{
+        font-size: 20PX;
+     
+    }
+    .nike5 h1{
+        font-size: 20px;
+        color: rgb(21, 129, 224);
+    
+    }
+    .nike5 img{
+        width: 200.2px;
+        height: 200.2px;
+    
+    }
+    .nike5{
+        display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgba(224, 220, 220, 0.521);
+    width: 250px;
+    height: 350px;
+    border-radius: 25px;
+        align-items: center;
+
+    }
+    .nike{
+        display: flex;
+        justify-content: space-around;
+    }
+
+
+    .adidas1 p{
+        font-size: 20PX;
+    
+    }
+    .adidas1 h1{
+        font-size: 20px;
+        color: rgb(21, 129, 224);
+    
+    }
+    .adidas1 img{
+        width: 200.2px;
+        height: 200.2px;
+    
+    }
+    .adidas1  {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        background-color: rgba(224, 220, 220, 0.521);
+        width: 250px;
+        height: 350px;
+        border-radius: 25px;
+            align-items: center;
+        }
+        .adidas2 p{
+            font-size: 20PX;
+        
+        }
+        .adidas2 h1{
+            font-size: 20px;
+            color: rgb(21, 129, 224);
+        
+        }
+        .adidas2 img{
+            width: 200.2px;
+            height: 200.2px;
+        
+        }
+        .adidas2{
+            display: flex;
+        justify-content: center;
+        flex-direction: column;
+        background-color: rgba(224, 220, 220, 0.521);
+        width: 250px;
+        height: 350px;
+        border-radius: 25px;
+            align-items: center;
+    
+        }
+        .adidas3 p{
+            font-size: 20PX;
+        
+        }
+        .adidas3 h1{
+            font-size: 20px;
+            color: rgb(21, 129, 224);
+        
+        }
+        .adidas3 img{
+            width: 200.2px;
+            height: 200.2px;
+        
+        }
+        .adidas3{
+            display: flex;
+        justify-content: center;
+        flex-direction: column;
+        background-color: rgba(224, 220, 220, 0.521);
+        width: 250px;
+        height: 350px;
+        border-radius: 25px;
+            align-items: center;
+    
+        }
+       .adidas4 p{
+            font-size: 20PX;
+         
+        }
+        .adidas4 h1{
+            font-size: 20px;
+            color: rgb(21, 129, 224);
+        
+        }
+        .adidas4 img{
+            width: 200.2px;
+            height: 200.2px;
+        
+        }
+        .adidas4 {
+            display: flex;
+        justify-content: center;
+        flex-direction: column;
+        background-color: rgba(224, 220, 220, 0.521);
+        width: 250px;
+        height: 350px;
+        border-radius: 25px;
+            align-items: center;
+    
+        }
+        .adidas5 p{
+            font-size: 20PX;
+         
+        }
+        .adidas5 h1{
+            font-size: 20px;
+            color: rgb(21, 129, 224);
+        
+        }
+        .adidas5 img{
+            width: 200.2px;
+            height: 200.2px;
+        
+        }
+        .adidas5{
+            display: flex;
+        justify-content: center;
+        flex-direction: column;
+        background-color: rgba(224, 220, 220, 0.521);
+        width: 250px;
+        height: 350px;
+        border-radius: 25px;
+            align-items: center;
+    
+        }
+        .adidas{
+            display: flex;
+            justify-content: space-around;
+        }
+        .hweyj{
+            display: flex;
+            flex-direction: column;
+            gap: 50px;
+        }
+        .hweyj button{
+            background-color: rgb(21, 129, 224);
+            color: white;
+            border-radius: 15px;
+            border: 0;
+        }
+        .FIN img{
+            width: 100%;
+            height: 500px;
+        }
+        .home{
+            display: flex;
+            flex-direction: column;
+            gap: 50px;
+
+        }

@@ -1,0 +1,271 @@
+body{
+    background-color: rgb(8, 39, 75);
+}
+
+
+img{
+    width: 100px;
+}
+
+
+.navbar{
+    display: flex;
+ gap: 900px;
+}
+
+
+a{
+    color: white;
+}
+
+
+.links{
+    display: flex;
+    gap: 100px;
+}
+
+
+.links a:hover{color: turquoise;}
+
+
+p{
+    color: white;
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+}
+.push img{
+    width: 100%;
+    height: 380px;
+}
+.push h1{
+    color: white;
+    width: 500px;
+    padding-left: 70px;
+}
+.push h1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+button{
+    color: white;
+    background-color: turquoise;
+    border: 0;
+    border-radius: 15px;
+    width: 200px;
+    height: 40px;
+}
+.push{
+    background-image: url('about-bg.jpg');
+}
+.adapt h1{
+    color: white;
+    font-size:50px;
+}
+.adapt p{
+    color: white;
+    font-size: 25px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    width: 500px;
+}
+.gadapt img{
+    width: 700px;
+    height: 700px;
+}
+.gadapt{
+    display: flex;
+    justify-content: space-around;
+}
+.protein{
+    background-image: url('Slider6.jpg');
+    height: 600px;
+}
+.protein{
+    /* width: 450px; */
+    /* height: 300px; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.protein img{
+    align-self: end;
+    width: 450px;
+    height: 300px;
+}
+.HOME{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+.wheymauve p{
+    font-size: 20PX;
+
+}
+.wheymauve h1{
+    font-size: 20px;
+    color: rgb(21, 129, 224);
+
+}
+.wheymauve img{
+    width: 200.2px;
+    height: 200.2px;
+
+}
+.wheymauve  {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgba(224, 220, 220, 0.521);
+    width: 250px;
+    height: 350px;
+    border-radius: 25px;
+        align-items: center;
+    }
+    .whey2 p{
+        font-size: 20PX;
+    
+    }
+    .whey2 h1{
+        font-size: 20px;
+        color: rgb(21, 129, 224);
+    
+    }
+    .whey2 img{
+        width: 200.2px;
+        height: 200.2px;
+    
+    }
+    .whey2{
+        display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgba(224, 220, 220, 0.521);
+    width: 250px;
+    height: 350px;
+    border-radius: 25px;
+        align-items: center;
+
+    }
+    .whey100 p{
+        font-size: 20PX;
+    
+    }
+    .whey100 h1{
+        font-size: 20px;
+        color: rgb(21, 129, 224);
+    
+    }
+    .whey100 img{
+        width: 200.2px;
+        height: 200.2px;
+    
+    }
+    .whey100{
+        display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgba(224, 220, 220, 0.521);
+    width: 250px;
+    height: 350px;
+    border-radius: 25px;
+        align-items: center;
+
+    }
+   .wheyblack p{
+        font-size: 20PX;
+     
+    }
+    .wheyblack h1{
+        font-size: 20px;
+        color: rgb(21, 129, 224);
+    
+    }
+    .wheyblack img{
+        width: 200.2px;
+        height: 200.2px;
+    
+    }
+    .wheyblack{
+        display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgba(224, 220, 220, 0.521);
+    width: 250px;
+    height: 350px;
+    border-radius: 25px;
+        align-items: center;
+
+    }
+    .wheyj p{
+        font-size: 20PX;
+     
+    }
+    .wheyj h1{
+        font-size: 20px;
+        color: rgb(21, 129, 224);
+    
+    }
+    .wheyj img{
+        width: 200.2px;
+        height: 200.2px;
+    
+    }
+    .wheyj{
+        display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgba(224, 220, 220, 0.521);
+    width: 250px;
+    height: 350px;
+    border-radius: 25px;
+        align-items: center;
+
+    }
+    
+    .whey{
+        display: flex;
+        justify-content: space-around;
+    }
+    .seemore {
+        display: flex;
+        justify-content: center;
+    }
+   .le5 img{
+    width: 100%;
+    height: 600px;
+   }
+   .modal-body{
+    display: flex;
+    align-items: end;
+    flex-direction: column;
+    gap: 20px;
+    
+   }
+   .email h1{
+color: rgb(21, 129, 224);
+font-size: 20px;
+   }
+   .email{
+    display: flex;
+    
+   }
+   .password h1{
+    color: rgb(21, 129, 224);
+font-size: 20px;
+   }
+   .password{
+    display: flex;
+    
+   }
+   .push p{
+    padding-left: 50px;
+   }
+.push{
+    display: flex;
+    flex-direction: column;
+}
+.push button{
+    align-self: center;
+}
